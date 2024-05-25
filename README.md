@@ -1,2 +1,2 @@
-# 8-bit-single-cycle-computer
-Developed an 8-bit single-cycle processor with an ALU, register file, control logic, data memory, data cache, instruction memory and instruction cache. 
+# 8-bit-single-cycle-computer-processor
+An 8-bit single cycle processor with an arithmetic logic unit (ALU), data memory, data cache, control logic, register file, instruction memory and instruction cache using ARM Assembly and Verilog HDL.
